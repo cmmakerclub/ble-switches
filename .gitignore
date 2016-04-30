@@ -1,0 +1,10 @@
+app/build
+.graddle
+build
+.gradle
+.idea
+*.iml
+android.nat.production.keystore
+*.swp
+fabric.properties
+*.apk

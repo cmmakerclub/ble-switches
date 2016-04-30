@@ -2,7 +2,6 @@
 
 MIT License.
 
-[[|alt=ble-switches]]
 [ble-switches]: https://raw.githubusercontent.com/cmmakerclub/ble-switches/master/device-2016-04-30-162013.png "BLE-SWITCHES"
 
 ```
